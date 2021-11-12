@@ -1,0 +1,15 @@
+String split: https://www.w3schools.com/python/ref_string_split.asp
+
+List comprehension: https://www.w3schools.com/python/python_lists_comprehension.asp
+
+Assigning multiple values from one list: https://stackoverflow.com/questions/31426095/assign-multiple-values-of-a-list
+
+Range function: https://www.w3schools.com/python/ref_func_range.asp
+
+Choosing float accuracy (how many numbers after the point): https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+
+Negative indexing in python: https://www.i2tutorials.com/what-are-negative-indexes-and-why-are-they-used/
+
+Python slice notation (Works for any indexable object): https://stackoverflow.com/questions/509211/understanding-slice-notation
+
+for loops in python: https://www.w3schools.com/python/python_for_loops.asp
